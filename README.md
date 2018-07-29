@@ -5,7 +5,9 @@ Pitch-Perfect é um aplicativo para iPhone que permite que usuários gravem suas
 ## Implementação
 <p float="left">
 <img height="45%" width="45%" vspace="20" hspace="20" src="https://user-images.githubusercontent.com/12848020/43370973-ff292dbe-935e-11e8-8527-b0bfefca39e0.png" />
+<img height="45%" width="45%" vspace="20" hspace="20" src="https://user-images.githubusercontent.com/12848020/43370996-8bcc55d4-935f-11e8-9b6d-2e69385782e3.png" />
  <img height="45%" width="45%" vspace="20" hspace="20" src="https://user-images.githubusercontent.com/12848020/43370974-ff4e00bc-935e-11e8-9e7f-3b079b4c1385.png" />
+<img height="45%" width="45%" vspace="20" hspace="20" src="https://user-images.githubusercontent.com/12848020/43370973-ff292dbe-935e-11e8-8527-b0bfefca39e0.png" />
 </p>
 
 ## Arquitetura do Projeto
